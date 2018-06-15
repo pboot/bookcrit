@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Codebook bookcrit project</title>
+            <author>Peter Boot</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>GitHub</distributor>
+            <availability status="free">
+               <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html"></licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list n="aspect">
+            <item>
+               <label>A</label>
+               <term>Style/tone/language</term> 
+               <gloss>Discussion of  tone and language use in the work,
+               w.r.t. word choice, syntax and its connotations.</gloss>  
+               <note type="samplewords">stijl, taal, toon, ondertoon, penvoering, zinnetjes, zinnen, toonzetting, woorden,
+                  woordspelingen, woordenstroom, formuleringen, taalgebruik, vocabulaire,
+                  verteltrant, schrijfwijze, taalbeheersing, woordkeus, schrijven, beschrijven, weergeven, vertellen, benoemen, formuleren, 
+                  op papier zetten, noteren</note>
+               <note type="usagenotes">vorm, vormvast: assigned by Linders to Structure, here seen as references to style </note>
+            </item>
+            <item>
+               <label>B</label>
+               <term>Structure</term>
+               <gloss>Discussion of the macrostructure of the text, relations between the chapters
+                  or other textual components of the text. </gloss>
+               <note type="samplewords">structuur, orde, ordeloosheid, sprongen in ruimte
+                  of tijd, vermenging, fragmentarisch, hoofdstukken, alinea's, lijnen, hoofdlijen, zijlijntjes, vooruitwijzingen, flash-backs, patronen, 
+                  perspectiefwisselingen, 'rond' verhaal, compositie, vervlechten, in elkaar zetten, componeren, verknopen, onderbreken, verbinden, vermengen</note>
+               <note type="usagenotes">lijnen, hoofdlijen, zijlijntjes: could be seen as Plot?</note>
+               <note type="usagenotes">perspectief(wisselingen): is perspective part of Structure? It is often mentioned</note>
+            </item>
+            <item>
+               <label>C</label>
+               <term>Setting</term>
+               <gloss>Discussion of setting background of the story, in time, space, social background.</gloss>
+               <note type="samplewords">ruimte, tijd, decor, milieu-tekening, schets van milieu, sfeer</note>
+               <note type="usagenotes">Can also be indicated by names of specific settings: Amsterdam, the Sixties, high society, political circles</note>
+            </item>
+            <item>
+               <label>D</label>
+               <term>Plot</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>E</label>
+               <term>Dialogues</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>F</label>
+               <term>Characters</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>G</label>
+               <term>Theme/ idea</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>H</label>
+               <term>Symbolism</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>I</label>
+               <term>Appearance/presentation</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+
+            <item>
+               <label>J</label>
+               <term>Author/ intention</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>K</label>
+               <term>(Part of) entire work</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>L</label>
+               <term>Other</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+         </list>
+         <list n="characteristic">
+            <item>
+               <label>1</label>
+               <term>Efficieny</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes">Includes negative remarks about volume of book: <mentioned>te dik</mentioned></note>
+            </item>
+            <item>
+               <label>2</label>
+               <term>Coherence</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>3</label>
+               <term>Continuity</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>4</label>
+               <term>Intensity/vividness</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>5</label>
+               <term>Literary/intellectual characteristics</term>
+               <gloss/>
+               <note type="samplewords"/>
+            </item>
+            <item>
+               <label>6</label>
+               <term>Humor</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>7</label>
+               <term>Clarity</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>8</label>
+               <term>Realism/credibility</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>9</label>
+               <term>Emotiveness</term>
+               <gloss/>
+               <note type="samplewords">snijdend, </note>
+               <note type="usagenotes"><mentioned>doet iets met me</mentioned></note>
+               <note type="usagenotes"><mentioned>raak geschreven</mentioned>: A 8-9 (though efficiency, vividness and clarity would also be defensible, or even realism); 
+                  compare <mentioned>treffend</mentioned>. 
+                  In <mentioned>raak</mentioned>, I see as the essential element that the reader is surprised or hit by the fittingness of the description, in 
+               <mentioned>treffend</mentioned> the element of fiitingness is less important.</note>
+            </item>
+            <item>
+               <label>10</label>
+               <term>Didactic characteristics</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>11</label>
+               <term>Religious characteristics</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>12</label>
+               <term>Socio-political characteristics</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>13</label>
+               <term>Moral characteristics</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>14</label>
+               <term>Originality</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"><mentioned>maf</mentioned> in positive sense is original</note>
+            </item>
+            <item>
+               <label>15</label>
+               <term>General/Other</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes">General cannot have a scale associated with it. 
+                  If end of scale has been nevertheless been coded, it will be ignored.</note>
+            </item>
+            <item>
+               <label>16</label>
+               <term>Upbeat</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>17</label>
+               <term>Phantasy/Imagination</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>18</label>
+               <term>Amusing</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"><mentioned>lekker leesboek</mentioned>, <mentioned>lekker om te lezen</mentioned>, 
+                  <mentioned>heerlijk om te lezen</mentioned>: K 18</note>
+            </item>
+            <item>
+               <label>19</label>
+               <term>Suspense</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>20</label>
+               <term>Subtle/subdued </term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>21</label>
+               <term>Identification</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+         </list>
+         <list n="end of scale">
+            <note type="default">0</note>
+            <item>
+               <label>1!</label>
+               <term>Mentioned end of scale (overdoing)</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>1</label>
+               <term>Mentioned end of scale</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>0</label>
+               <term>half-way/unclear</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>-1</label>
+               <term>Other end of scale</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>-1!</label>
+               <term>Other end of scale (overdoing)</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+         </list>
+         <list n="polarity">
+
+            <item>
+               <label>p</label>
+               <term>Positive</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>u</label>
+               <term>Unspecified/neutral</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>n</label>
+               <term>Negative</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+         </list>
+         <list n="relation">
+
+            <item>
+               <label>r</label>
+               <term>for a certain group of readers</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>a</label>
+               <term>About the author</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>w</label>
+               <term>About other work of author</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>g</label>
+               <term>General</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>t</label>
+               <term>About other author</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+            <item>
+               <label>f</label>
+               <term>Cites other person's opinion</term>
+               <gloss/>
+               <note type="samplewords"/>
+               <note type="usagenotes"/>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

@@ -62,7 +62,9 @@
 "metafoor|metafor.*"	H 15
 "taalgebruik"	A 15
 "leest"[]{0,2}"lekker"	K 18 1 p
-"schitterende|rake|mooie|grappige|snijdende|eloquente""uitspraken"	A 15 1 p
+"schitterende|mooie|grappige|eloquente""uitspraken"	A 15 1 p
+"rake""uitspraken"	A 8-9 1 p
+"snijdende""uitspraken"	A 9 1 p
 "de""kern""is"	G 15
 "vaker"[]?"lezen"	K 15 1 p
 "sfeer"[]?[lemma="proeven"]	C 8 1 p
@@ -132,9 +134,9 @@
 "po(e|ë)tische"[]{0,4}"zinnen"	A 5 1 p
 "uitgewerkt.*"[]{0,3}"perso.*"	D 5 1 p
 [word="niet"]?"mag"[word="niet"]?"ontbreken"	K 15 1 p
-"rake""metafo.*"	H 1 1 p
-"rake""beschrijving.*"	A 1 1 p
-"rake""opmerking.*"	A 1 1 p
+"rake""metafo.*"	H 8-9 1 p
+"rake""beschrijving.*"	A 8-9 1 p
+"rake""opmerking.*"	A 8-9 1 p
 "knap""gedaan"	K-J 1 1 p
 "gelachen"	K 6 1 p
 "ophef""over"[]{0,2}"boek"	K 15 0 u f
@@ -258,7 +260,7 @@
 "weet"[]{0,5}"op""te""roepen"	J 15 1 p
 "gaat"[]{0,5}"over"	G 15
 "hoe"[]{0,4}"in""een""paar""regels"	K 1 1 p
-"heerlijk"[]{0,4}"lezen"	K 15 1 p
+"heerlijk"[]{0,4}"lezen"	K 18 1 p
 "lekker"[]{0,4}"lezen"	K 18 1 p
 <s>[lc!="niet|nauwelijks|zonder|geen|zeldem"]*"clich.*"	K 14 -1 n
 "litera.*"[]{0,3}"is"[]{0,3}"niet"	K 5 -1 n
@@ -266,8 +268,11 @@
 "gezwollen"[]{0,4}"taal.*|.*woord.*|zin.*|pathos|.*stijl.*"	A 20 -1 n
 "bombastisch"[]{0,4}"taal.*|.*woord.*|zin.*|pathos|.*stijl.*"	A 20 -1 n
 "boek"[]{0,4}"titel"	I 15
-"prachtig|mooi|treffend|uitstekend|prima|fraai|goed|geniaal"[]{0,3}"geformuleerd"	A 15 1 p
+"prachtig|mooi|uitstekend|prima|fraai|goed|geniaal"[]{0,3}"geformuleerd"	A 15 1 p
+"treffend"[]{0,3}"geformuleerd"	A 9 1 p
 "niet""stoppen"[]{0,4}"lezen"	K 18 1 p
 "titel""van""het""boek"	I 15
 <s>"prachtig"	K 15 1 p
 "zoveel""positieve""reacties"	K 15 1 p f
+"best"[]{0,1}"dik.*"	K 1 -1 n
+"treffend.*"[]{0,1}"beeldspraak|symboli.*"	H 9 p
