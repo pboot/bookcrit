@@ -55,102 +55,106 @@
             <item>
                <label>D</label>
                <term>Plot</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of events and ending of the story</gloss>
+               <note type="samplewords">plot, verhaal, verhaaldraad, slot, ontknoping, historie, handelingen, episoden, voorvallen</note>
+               <note type="usagenotes">Can also be applied if say a specific episode is recounted</note>
             </item>
             <item>
                <label>E</label>
                <term>Dialogues</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discusses how conversations between characters are represented</gloss>
+               <note type="samplewords">dialoog, gesprek, woordenwisseling, uitspraak, vertellen, spreken</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>F</label>
                <term>Characters</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of characters in the book</gloss>
+               <note type="samplewords">personages, figuur, hoofdpersoon, karakter, mens, tegenspelerhoofdrol, bijrol, persoonlijkheid, sujet, held, type</note>
+               <note type="usagenotes">Can also be used when characters are mentioned by name or profession etc.</note>
             </item>
             <item>
                <label>G</label>
-               <term>Theme/ idea</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <term>Theme/idea</term>
+               <gloss>Discussion about the topic that are written about.</gloss>
+               <note type="samplewords">thema, idee, probleem, problematiek, gedachte, romanthese, visie, inzicht, verhaalmotief</note>
+               <note type="usagenotes">Topic can also be mentioned by name rather than by category</note>
             </item>
             <item>
                <label>H</label>
                <term>Symbolism</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of symbolism or metaphors in the work</gloss>
+               <note type="samplewords">symbool, symbolisme, beeldspraak</note>
+               <note type="usagenotes">Specifif symbols can also be mentioned</note>
             </item>
             <item>
                <label>I</label>
                <term>Appearance/presentation</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of paratextual and non-textual data, such as title, cover, publisher, genre indication, etc </gloss>
+               <note type="samplewords">uitgever, titel, illustratie, afbeelding, foto, flaptekst, papier, verschijnen, presenteren</note>
                <note type="usagenotes"/>
             </item>
-
             <item>
                <label>J</label>
                <term>Author/ intention</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of author of the book and his/her poetics, intentions, person</gloss>
+               <note type="samplewords">auteur, schrijver, schrijfester, intentie bedoeling, willen</note>
+               <note type="usagenotes">Name of specific author is also an indication</note>
             </item>
             <item>
                <label>K</label>
                <term>(Part of) entire work</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of the book as a whole or of parts of the book, where no reference is mode to specific aspects</gloss>
+               <note type="samplewords">boek, werk, roman, verhaal, vertelling, deel, hoofdstuk, slot</note>
+               <note type="usagenotes"><mentioned>verhaal</mentioned> is a difficult case, that will sometimes be just 
+                  another word for the work as a whole, but in other cases may refer to the plot.</note>
             </item>
             <item>
                <label>L</label>
                <term>Other</term>
-               <gloss/>
+               <gloss>Discussion of other aspects</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes">Have not yet seen a case where this category was necessary</note>
             </item>
          </list>
          <list n="characteristic">
             <item>
                <label>1</label>
                <term>Efficieny</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of the efficiency with which the desired effects were obtained.</gloss>
+               <note type="samplewords">efficient, zuinig, ter zake, details, uitvoering, (on)gecontroleerd, onopgesmukt, 
+                  uitgesponnen, karig, lang, kort, langzaam</note>
                <note type="usagenotes">Includes negative remarks about volume of book: <mentioned>te dik</mentioned></note>
+               <note type="usagenotes"><mentioned>traag</mentioned> used negatively (<mentioned>traag verhaal</mentioned>): D 1 -1 n</note>
+               <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (negative): K 1 -1 n</note>
             </item>
             <item>
                <label>2</label>
                <term>Coherence</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of the extent to which elements form a logical whole</gloss>
+               <note type="samplewords">samenhang(end), combinatie, kloppen met, overeenkomen met</note>
+               <note type="usagenotes">E.g. discussion whether a character and a plot turn are compatible.</note>
             </item>
             <item>
                <label>3</label>
                <term>Continuity</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of continuity in a single aspect</gloss>
+               <note type="samplewords">ontwikkeling, verandering, verschuiving, groei, afwisseling</note>
+               <note type="usagenotes">May be applied e.g. (with end of scale -1) for characters that don't show any development.</note>
             </item>
             <item>
                <label>4</label>
                <term>Intensity/vividness</term>
                <gloss/>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>gekunstelde stijl</mentioned>: A 4 -1 n</note>
             </item>
             <item>
                <label>5</label>
                <term>Literary/intellectual characteristics</term>
                <gloss/>
-               <note type="samplewords"/>
+               <note type="usagenotes"><mentioned>intrigerend</mentioned>: even though suspense novels can also be called intriguing?</note>
+               <note type="usagenotes"><mentioned>jongensboek</mentioned> as a reproach: K 5 -1 n</note>
             </item>
             <item>
                <label>6</label>
@@ -163,7 +167,7 @@
                <label>7</label>
                <term>Clarity</term>
                <gloss/>
-               <note type="samplewords"/>
+               <note type="samplewords">toegankelijk, eenvoudig, makkelijk, moeilijk</note>
                <note type="usagenotes"/>
             </item>
             <item>
@@ -171,7 +175,7 @@
                <term>Realism/credibility</term>
                <gloss/>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>gekunstelde karakters</mentioned>: F 8 -1 n</note>
             </item>
             <item>
                <label>9</label>
@@ -182,7 +186,7 @@
                <note type="usagenotes"><mentioned>raak geschreven</mentioned>: A 8-9 (though efficiency, vividness and clarity would also be defensible, or even realism); 
                   compare <mentioned>treffend</mentioned>. 
                   In <mentioned>raak</mentioned>, I see as the essential element that the reader is surprised or hit by the fittingness of the description, in 
-               <mentioned>treffend</mentioned> the element of fiitingness is less important.</note>
+               <mentioned>treffend</mentioned> the element of fittingness is less important.</note>
             </item>
             <item>
                <label>10</label>
@@ -218,6 +222,7 @@
                <gloss/>
                <note type="samplewords"/>
                <note type="usagenotes"><mentioned>maf</mentioned> in positive sense is original</note>
+               <note type="usagenotes"><mentioned>allebehalve voorspelbaar</mentioned>: shows originality, but may be applied at multiple levels</note>
             </item>
             <item>
                <label>15</label>
@@ -225,7 +230,9 @@
                <gloss/>
                <note type="samplewords"/>
                <note type="usagenotes">General cannot have a scale associated with it. 
-                  If end of scale has been nevertheless been coded, it will be ignored.</note>
+                  If end of scale has nevertheless been coded, it will be ignored.</note>
+               <note type="usagenotes">General judgment about book: <mentioned>good book</mentioned>, <mentioned>wonderful book</mentioned>: K 15 p</note>
+               <note type="usagenotes">General judgment about writer, such as <mentioned>a very capable writer</mentioned>: J 15 p</note>
             </item>
             <item>
                <label>16</label>
@@ -258,10 +265,12 @@
             </item>
             <item>
                <label>20</label>
-               <term>Subtle/subdued </term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <term>Subtle/subdued</term>
+               <gloss></gloss>
+               <note type="samplewords">refined, hoogdravend, bombastisch</note>
+               <note type="usagenotes"><mentioned>sober, ingehouden</mentioned>: moved from Efficient to Subtle</note>
+               <note type="usagenotes"><mentioned>traag</mentioned> used positively (<mentioned>traaf en geduldig verteld verhaal</mentioned>): Subtle</note>
+               <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (positively): K 20 1 p</note>
             </item>
             <item>
                <label>21</label>
@@ -310,25 +319,25 @@
             </item>
          </list>
          <list n="polarity">
-
+            <note type="default">u</note>
             <item>
                <label>p</label>
                <term>Positive</term>
-               <gloss/>
+               <gloss>Reveiewer apreciates the mentioned phenomenon</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>u</label>
                <term>Unspecified/neutral</term>
-               <gloss/>
+               <gloss>Reviewer expresses no (discernible) opinion about mentioned phenomenon</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>n</label>
                <term>Negative</term>
-               <gloss/>
+               <gloss>Reviewer dislikes the mentioned phenomenon</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
@@ -338,46 +347,57 @@
             <item>
                <label>r</label>
                <term>for a certain group of readers</term>
-               <gloss/>
+               <gloss>The opinion given represent how a certain group of readers might evaluate the book</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>a story fit for schoolboys</mentioned>, <mentioned>for many people this will be moving</mentioned></note>
+               <note type="usagenotes"><mentioned>jongensboek</mentioned>, if used as an observation</note>
             </item>
             <item>
                <label>a</label>
                <term>About the author</term>
                <gloss/>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes">How does this relate to aspect J?</note>
             </item>
             <item>
                <label>w</label>
                <term>About other work of author</term>
-               <gloss/>
+               <gloss>The opinion given is about another work by the same author</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>g</label>
                <term>General</term>
-               <gloss/>
+               <gloss>The opinion given is a general opinion, not about this work</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>I dislike symbolism</mentioned>, <mentioned>suspense is what counts</mentioned></note>
             </item>
             <item>
                <label>t</label>
                <term>About other author</term>
-               <gloss/>
+               <gloss>The opinion given is about another author or his/her works</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>f</label>
                <term>Cites other person's opinion</term>
-               <gloss/>
+               <gloss>The opinion given is that of a teacher, friend, or other reviewer, not the reviewer's own</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes">If opinion from other person (f) about other book (w): code as f. Example: 
+                  <mentioned>De NRC-recensie over dit boek zei dat het qua thematiek tegenover Joe Speedboot staat</mentioned>: G 15 f</note>
             </item>
          </list>
+         <div>
+            <head>Issues with the coding system</head>
+            <list>
+               <item>Especially in longer reviews, all aspects tend to be discussed: plot and characters and style. 
+                  So the coding might become very similar? But: in one review I might have 5 character aspects 
+                  (in combination with different characteristics), in another one only one.</item>
+               <item>Cannot make a distinction between very enthousiastic and moderately positive</item>
+            </list>
+         </div>
       </body>
    </text>
 </TEI>

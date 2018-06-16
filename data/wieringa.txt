@@ -200,7 +200,7 @@
 "vind|vond|vonden|vinden""er""niks""aan"	K 15 -1 n
 "boek""niks""aan"	K 15 -1 n
 "heb"[]{0,2}"genoten"[]{0,2}"boek|thriller"	K 15 1 n
-"traag"[]{0,2}"verhaal"	D 4 -1
+"traag"[]{0,2}"verhaal"	D 1 -1
 [word!="mee"]"slepend"[]{0,2}"verhaal"	D 4 -1
 "geheel"[lemma="smeden"]	B 2 1 p
 "schelmenroman"	C-F 4 1 p
@@ -276,3 +276,10 @@
 "zoveel""positieve""reacties"	K 15 1 p f
 "best"[]{0,1}"dik.*"	K 1 -1 n
 "treffend.*"[]{0,1}"beeldspraak|symboli.*"	H 9 p
+"verhaal"[]{0,2}"niet|minder|nauwelijks"[]{0,2}"interessant"	D 18 -1 n
+"geweldige"[]{0,4}"zinsopbouw"	A 15 p
+"waar"[]{0,4}"afspeelt"	C 15
+"kan"[word!="niet"]{0,4}"schrijven"	J 15 p
+"verhaal"[word!="niet|nauwelijks|minder"]{0,4}"intrigerend"	D 5 1 p
+"beeldspraak"	H 15
+"allesbehalve""voorspelba.*"	K 14 p
