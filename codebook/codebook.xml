@@ -145,43 +145,55 @@
             <item>
                <label>4</label>
                <term>Intensity/vividness</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discyssion of whether a work is impressive or powerful, whether it contains energy or vitality</gloss>
+               <note type="samplewords">Hevig, gematigd, zacht, vlammend, baldadig, sterk, bravoure, uitbundig, springlevend, 
+                  speels, vaart, tam, mat verdorring, vitaal, levenloos, landerig, vlot, vlak, leven, flitsend, ongeremd</note>
                <note type="usagenotes"><mentioned>gekunstelde stijl</mentioned>: A 4 -1 n</note>
             </item>
             <item>
                <label>5</label>
                <term>Literary/intellectual characteristics</term>
-               <gloss/>
+               <gloss>Discussion of whether a work is literary, about the depth of a work, about its complexity 
+                  or layeredness, about intellectualism and about whether it stimulates the intellect</gloss>
+               <note type="samplewords">Literatuur, lectuur, diepgang, boeiend, briljant, intellectueel, geniaal, scherpzinnig, 
+                  inzicht, zwaarwichtig, fascinerend, onbenulig, interessant, geraffineerd, triviaal</note>
                <note type="usagenotes"><mentioned>intrigerend</mentioned>: even though suspense novels can also be called intriguing?</note>
                <note type="usagenotes"><mentioned>jongensboek</mentioned> as a reproach: K 5 -1 n</note>
+               <note type="usagenotes"><mentioned>ernst</mentioned> was humour, but more suitable here</note>
             </item>
             <item>
                <label>6</label>
-               <term>Humor</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <term>Humour</term>
+               <gloss>Discussion of humour in the work</gloss>
+               <note type="samplewords">Humor, satire, ironie, kolderiek, spot, spotziek, komisch, joligheid, meligheid, 
+                  cabaret, vermakelijk, hilarisch, flauw</note>
+               <note type="usagenotes">Linders here also includes what is amusing (<mentioned>vermakelijk</mentioned> or <mentioned>cheerful</mentioned>. 
+                  I moved these to characteristics amusing (18) and upbeat (16).</note>
             </item>
             <item>
                <label>7</label>
                <term>Clarity</term>
-               <gloss/>
-               <note type="samplewords">toegankelijk, eenvoudig, makkelijk, moeilijk</note>
+               <gloss>Discussion of whether a work or aspect is clear, easily understandable, including of things that become clear immediatey or only later in the work.</gloss>
+               <note type="samplewords">toegankelijk, eenvoudig, makkelijk, moeilijk, helder, duidelijk, onverklaard, onontleed, uitdrukkelijk, nauw-verhiolen, suggestief, 
+               cryptisch, geen hoogte kijgen van, verwarring, schimmig, spannend</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>8</label>
                <term>Realism/credibility</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of agreement with reality or credibility</gloss>
+               <note type="samplewords">realistisch, gelijkend, onwezenlijk, geloven, herkennen, (on)herkenbaar, levensecht, 
+               overtuigend, ongeloofwaardig, onnatuurlijk, sprookjesachtig.</note>
                <note type="usagenotes"><mentioned>gekunstelde karakters</mentioned>: F 8 -1 n</note>
+               <note type="usagenotes">Linders includes here <mentioned>fantasie</mentioned>, and that is OK if it is meant to stress lack of realism. 
+                  But for imagination I created a separate characteristic; it need not conflict with credibility.</note>
             </item>
             <item>
                <label>9</label>
                <term>Emotiveness</term>
-               <gloss/>
-               <note type="samplewords">snijdend, </note>
+               <gloss>Discussion of whether a work or an aspect of the work is emotional, expresses emotions, or evokes emotion</gloss>
+               <note type="samplewords">snijdend, emotie, gevoel, gevoelig, voelen, verdriet, melancholie, ergernis, hartverwarmend, 
+               ontroerend, pakkend, aangrijpend, indringend, aandoenlijk, weemoedig</note>
                <note type="usagenotes"><mentioned>doet iets met me</mentioned></note>
                <note type="usagenotes"><mentioned>raak geschreven</mentioned>: A 8-9 (though efficiency, vividness and clarity would also be defensible, or even realism); 
                   compare <mentioned>treffend</mentioned>. 
@@ -191,44 +203,46 @@
             <item>
                <label>10</label>
                <term>Didactic characteristics</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of whether a work or an aspect of it can teach the reader something, explain things or provide insight</gloss>
+               <note type="samplewords">leren, uitleggen, ogen openen voor, begrijpen, aantonen, laten zien</note>
+               <note type="usagenotes">Moral lessons belong to 13</note>
             </item>
             <item>
                <label>11</label>
                <term>Religious characteristics</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of whether a work or aspect of it is religious, has religious meaning, or whether religion plays 
+               an important part in it. Other end of scale: atheism.</gloss>
+               <note type="samplewords">stichtelijk, goed-christelijk, names of religions</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>12</label>
                <term>Socio-political characteristics</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion whether a work or an aspect of it is socially or politically meaningful. Antonym: apolitical.</gloss>
+               <note type="samplewords">maatschappij, samenleving, ideologie, geëngageerd</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>13</label>
                <term>Moral characteristics</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of whether the work expresses or discusses ethical norms or prevailing ideas of good and evil. Other end of scale: amoral</gloss>
+               <note type="samplewords">(on)gevaarlijk, moraliserend, verontrustend, problematiek, probleem</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>14</label>
                <term>Originality</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of wheteher the work or an aspect of it is new or original </gloss>
+               <note type="samplewords">origineel, oorspronkelijk, eigenzinnig, onvervalst, nieuw, bekend, cliché, zoveelste, versleten, 
+               creatief, afwijken, overeenkomen, variëren, imitatie, gemeenplaatsen, experimenteel, onnavolgbaar, persoonlijk, verrassend </note>
                <note type="usagenotes"><mentioned>maf</mentioned> in positive sense is original</note>
                <note type="usagenotes"><mentioned>allebehalve voorspelbaar</mentioned>: shows originality, but may be applied at multiple levels</note>
             </item>
             <item>
                <label>15</label>
                <term>General/Other</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>General evaluations where non of the other characteristics apply</gloss>
+               <note type="samplewords">goed, slecht, voortreffelijk, knap, uitstekend, mooi, fantastisch</note>
                <note type="usagenotes">General cannot have a scale associated with it. 
                   If end of scale has nevertheless been coded, it will be ignored.</note>
                <note type="usagenotes">General judgment about book: <mentioned>good book</mentioned>, <mentioned>wonderful book</mentioned>: K 15 p</note>
@@ -237,46 +251,54 @@
             <item>
                <label>16</label>
                <term>Upbeat</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discusson of whether a work is optimistic, upbeat or pessimistic and gloomy. Not in Linders</gloss>
+               <note type="samplewords">Optimistisch, pessimistisch, zwart, inktzwart, nachtmerrie</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>17</label>
                <term>Phantasy/Imagination</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion of the extent to which to work or its aspect show imagination. Not in Linders</gloss>
+               <note type="samplewords">(rijke) verbeelding(skracht), fantasie(vol)</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>18</label>
                <term>Amusing</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>Discussion whether the work is a joy to read. Antonym: boring. Not in Linders</gloss>
+               <note type="samplewords">vervelend, saai, leuk, lekker</note>
                <note type="usagenotes"><mentioned>lekker leesboek</mentioned>, <mentioned>lekker om te lezen</mentioned>, 
                   <mentioned>heerlijk om te lezen</mentioned>: K 18</note>
+               <note type="usagenotes"><mentioned>Genoegen, kostelijk</mentioned>: moved from general/other to this category</note>
             </item>
             <item>
                <label>19</label>
                <term>Suspense</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <gloss>Discussion of the suspenseful character of the work or an aspect, including the feeling of suspense in the reader. Not in Linders</gloss>
+               <note type="samplewords">spannend, retespannend</note>
+               <note type="usagenotes">I removed suspense from the general category of emotion. There are many works 
+                  that are nor particularly emotional in any sense except for the feeling of suspense that they evoke 
+                  in the reader. I seems more usefull to keep this code separate. </note>
             </item>
             <item>
                <label>20</label>
                <term>Subtle/subdued</term>
-               <gloss></gloss>
+               <gloss>Discussion of the subtlety and refinement of the work. Not in Linders</gloss>
                <note type="samplewords">refined, hoogdravend, bombastisch</note>
                <note type="usagenotes"><mentioned>sober, ingehouden</mentioned>: moved from Efficient to Subtle</note>
+               <note type="usagenotes"><mentioned>gezwollen, bombast, subtiel, ingetogen</mentioned>: moved from Intensity/vividness to Subtle</note>
                <note type="usagenotes"><mentioned>traag</mentioned> used positively (<mentioned>traaf en geduldig verteld verhaal</mentioned>): Subtle</note>
                <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (positively): K 20 1 p</note>
+               <note type="usagenotes"><mentioned>zuiver</mentioned>: moved from religion to this category</note>
             </item>
             <item>
                <label>21</label>
                <term>Identification</term>
-               <gloss/>
-               <note type="samplewords"/>
+               <gloss>discussion of whether the reader can identify with the book or some aspect of it. Not in Linders</gloss>
+               <note type="samplewords">identificeren, invoelbaar, inleven, zich herkennen in</note>
+               <note type="usagenotes">This was a category that Linders included in the pilot version of her system but removed from the final version. 
+               She argues that in the small number of cases where it was used, the phenomenon might as well be coded as credibility or emotion. 
+               Because of its importance in reading research I decided to maintain the category.</note>
                <note type="usagenotes"/>
             </item>
          </list>
@@ -285,38 +307,39 @@
             <item>
                <label>1!</label>
                <term>Mentioned end of scale (overdoing)</term>
-               <gloss/>
+               <gloss>At mentioned end of scale but overdoing it. Originality e.g. is considered good, but work has too much of it</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>1</label>
                <term>Mentioned end of scale</term>
-               <gloss/>
+               <gloss>At mentioned end of scale: on e.g. the 'amusing'-scale, work is amusing, not boring.</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>0</label>
                <term>half-way/unclear</term>
-               <gloss/>
+               <gloss>Scale is mentioned but it is unclear at what end this work is, or it is somewhere in between.</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>-1</label>
                <term>Other end of scale</term>
-               <gloss/>
+               <gloss>At other end of scale: on e.g. the 'amusing'-scale, work is boring, not amusing.</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>-1!</label>
-               <term>Other end of scale (overdoing)</term>
+               <term>At other end of scale but overdoing it. e.g. <mentioned>too conservative</mentioned>: 14 -1! n</term>
                <gloss/>
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
+            <note type="usagenotes">Not in Linders</note>
          </list>
          <list n="polarity">
             <note type="default">u</note>
@@ -341,9 +364,9 @@
                <note type="samplewords"/>
                <note type="usagenotes"/>
             </item>
+            <note type="usagenotes">Not in Linders</note>
          </list>
          <list n="relation">
-
             <item>
                <label>r</label>
                <term>for a certain group of readers</term>
