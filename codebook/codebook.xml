@@ -376,13 +376,6 @@
                <note type="usagenotes"><mentioned>jongensboek</mentioned>, if used as an observation</note>
             </item>
             <item>
-               <label>a</label>
-               <term>About the author</term>
-               <gloss/>
-               <note type="samplewords"/>
-               <note type="usagenotes">How does this relate to aspect J?</note>
-            </item>
-            <item>
                <label>w</label>
                <term>About other work of author</term>
                <gloss>The opinion given is about another work by the same author</gloss>
@@ -392,7 +385,7 @@
             <item>
                <label>g</label>
                <term>General</term>
-               <gloss>The opinion given is a general opinion, not about this work</gloss>
+               <gloss>The opinion given is a general opinion, not about this work. Not in Linders</gloss>
                <note type="samplewords"/>
                <note type="usagenotes"><mentioned>I dislike symbolism</mentioned>, <mentioned>suspense is what counts</mentioned></note>
             </item>
@@ -405,7 +398,7 @@
             </item>
             <item>
                <label>f</label>
-               <term>Cites other person's opinion</term>
+               <term>Cites other person's opinion. Not in Linders</term>
                <gloss>The opinion given is that of a teacher, friend, or other reviewer, not the reviewer's own</gloss>
                <note type="samplewords"/>
                <note type="usagenotes">If opinion from other person (f) about other book (w): code as f. Example: 
