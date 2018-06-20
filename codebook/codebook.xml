@@ -58,6 +58,8 @@
                <gloss>Discussion of events and ending of the story</gloss>
                <note type="samplewords">plot, verhaal, verhaaldraad, slot, ontknoping, historie, handelingen, episoden, voorvallen</note>
                <note type="usagenotes">Can also be applied if say a specific episode is recounted</note>
+               <note type="usagenotes"><mentioned>het idee van het boek</mentioned>: probaby usually refers to the plot</note>
+               <note type="usagenotes"/>
             </item>
             <item>
                <label>E</label>
@@ -86,12 +88,15 @@
                <gloss>Discussion of symbolism or metaphors in the work</gloss>
                <note type="samplewords">symbool, symbolisme, beeldspraak</note>
                <note type="usagenotes">Specifif symbols can also be mentioned</note>
+               <note type="usagenotes"><mentioned>mooi beeld</mentioned> can refer to symbolism, but more usually is just refers 
+               to a beautiful sketch</note>
             </item>
             <item>
                <label>I</label>
                <term>Appearance/presentation</term>
                <gloss>Discussion of paratextual and non-textual data, such as title, cover, publisher, genre indication, etc </gloss>
                <note type="samplewords">uitgever, titel, illustratie, afbeelding, foto, flaptekst, papier, verschijnen, presenteren</note>
+               <note type="usagenotes">Genre indication: only code if the genre is thematized: <mentioned>for a thriller, it's pretty tame</mentioned></note>
                <note type="usagenotes"/>
             </item>
             <item>
@@ -100,6 +105,8 @@
                <gloss>Discussion of author of the book and his/her poetics, intentions, person</gloss>
                <note type="samplewords">auteur, schrijver, schrijfester, intentie bedoeling, willen</note>
                <note type="usagenotes">Name of specific author is also an indication</note>
+               <note type="usagenotes">If a review says that an author <mentioned>can write</mentioned>, that is not 
+               necessarily just about style, and therefore: J 15 1 p (rather than J-A)</note>
             </item>
             <item>
                <label>K</label>
@@ -149,6 +156,11 @@
                <note type="samplewords">Hevig, gematigd, zacht, vlammend, baldadig, sterk, bravoure, uitbundig, springlevend, 
                   speels, vaart, tam, mat verdorring, vitaal, levenloos, landerig, vlot, vlak, leven, flitsend, ongeremd</note>
                <note type="usagenotes"><mentioned>gekunstelde stijl</mentioned>: A 4 -1 n</note>
+               <note type="usagenotes"><mentioned>vlot geschreven</mentioned>: A 4 1 p</note>
+               <note type="usagenotes"><mentioned>levendig om te lezen</mentioned>, <mentioned>vlot te lezen</mentioned>, however: A 18</note>
+               <note type="usagenotes"><mentioned>bizar</mentioned> is a difficult word. Can be used positively in this category, 
+                  or negatively in category 8</note>
+               <note type="usagenotes"><mentioned>pakkend</mentioned>: moved from 9 to 4</note>
             </item>
             <item>
                <label>5</label>
@@ -160,6 +172,10 @@
                <note type="usagenotes"><mentioned>intrigerend</mentioned>: even though suspense novels can also be called intriguing?</note>
                <note type="usagenotes"><mentioned>jongensboek</mentioned> as a reproach: K 5 -1 n</note>
                <note type="usagenotes"><mentioned>ernst</mentioned> was humour, but more suitable here</note>
+               <note type="usagenotes"><mentioned>volwassen</mentioned>: might be used to indicate seriousness, but is also 
+                  often used when an author of children's books has written a book for adults. </note>
+               <note type="usagenotes"><mentioned>uitgewerkte personages</mentioned>: F 5. (though vividness and credibility might be considered too)</note>
+               <note type="usagenotes"/>
             </item>
             <item>
                <label>6</label>
@@ -169,6 +185,9 @@
                   cabaret, vermakelijk, hilarisch, flauw</note>
                <note type="usagenotes">Linders here also includes what is amusing (<mentioned>vermakelijk</mentioned> or <mentioned>cheerful</mentioned>. 
                   I moved these to characteristics amusing (18) and upbeat (16).</note>
+               <note type="usagenotes"><mentioned>irony</mentioned> is subtle humour: 6-20</note>
+               <note type="usagenotes"><mentioned>glimlach</mentioned> is subtle humour : 6-20</note>
+               <note type="usagenotes"/>
             </item>
             <item>
                <label>7</label>
@@ -193,12 +212,15 @@
                <term>Emotiveness</term>
                <gloss>Discussion of whether a work or an aspect of the work is emotional, expresses emotions, or evokes emotion</gloss>
                <note type="samplewords">snijdend, emotie, gevoel, gevoelig, voelen, verdriet, melancholie, ergernis, hartverwarmend, 
-               ontroerend, pakkend, aangrijpend, indringend, aandoenlijk, weemoedig</note>
+               ontroerend, aangrijpend, indringend, aandoenlijk, weemoedig</note>
                <note type="usagenotes"><mentioned>doet iets met me</mentioned></note>
+               <note type="usagenotes"><mentioned>het boek grijpt je</mentioned></note>
                <note type="usagenotes"><mentioned>raak geschreven</mentioned>: A 8-9 (though efficiency, vividness and clarity would also be defensible, or even realism); 
                   compare <mentioned>treffend</mentioned>. 
                   In <mentioned>raak</mentioned>, I see as the essential element that the reader is surprised or hit by the fittingness of the description, in 
                <mentioned>treffend</mentioned> the element of fittingness is less important.</note>
+               <note type="usagenotes"><mentioned>poëtisch</mentioned>: 5-9 (withouit further indications, probably A 5-9 1 p).</note>
+               <note type="usagenotes"><mentioned>inspirerend</mentioned>: 9, though there is more to it.</note>
             </item>
             <item>
                <label>10</label>
@@ -227,7 +249,9 @@
                <term>Moral characteristics</term>
                <gloss>Discussion of whether the work expresses or discusses ethical norms or prevailing ideas of good and evil. Other end of scale: amoral</gloss>
                <note type="samplewords">(on)gevaarlijk, moraliserend, verontrustend, problematiek, probleem</note>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>een heroïsch verhaal</mentioned>: F 13 1 p; possibly, if there are overtones of admiration, F 9-13 1 p.
+               <mentioned>held</mentioned>, if used in the general sense, is a moral characteristic F 13. If used in the sense of 
+               'character', just code F (15?)</note>
             </item>
             <item>
                <label>14</label>
@@ -268,7 +292,7 @@
                <gloss>Discussion whether the work is a joy to read. Antonym: boring. Not in Linders</gloss>
                <note type="samplewords">vervelend, saai, leuk, lekker</note>
                <note type="usagenotes"><mentioned>lekker leesboek</mentioned>, <mentioned>lekker om te lezen</mentioned>, 
-                  <mentioned>heerlijk om te lezen</mentioned>: K 18</note>
+                  <mentioned>heerlijk om te lezen</mentioned>, <mentioned>levendig om te lezen</mentioned>: K 18</note>
                <note type="usagenotes"><mentioned>Genoegen, kostelijk</mentioned>: moved from general/other to this category</note>
             </item>
             <item>
@@ -293,12 +317,14 @@
             </item>
             <item>
                <label>21</label>
-               <term>Identification</term>
+               <term>Identification/aborption</term>
                <gloss>discussion of whether the reader can identify with the book or some aspect of it. Not in Linders</gloss>
                <note type="samplewords">identificeren, invoelbaar, inleven, zich herkennen in</note>
                <note type="usagenotes">This was a category that Linders included in the pilot version of her system but removed from the final version. 
                She argues that in the small number of cases where it was used, the phenomenon might as well be coded as credibility or emotion. 
                Because of its importance in reading research I decided to maintain the category.</note>
+               <note type="usagenotes">Category is also used to code <mentioned>pakte me</mentioned>
+               <mentioned>meeslepend</mentioned>, <mentioned>meegevoerd</mentioned> etc. (though <mentioned>pakkend</mentioned> is merely intense)</note>
                <note type="usagenotes"/>
             </item>
          </list>
@@ -348,7 +374,8 @@
                <term>Positive</term>
                <gloss>Reveiewer apreciates the mentioned phenomenon</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>aardig</mentioned>: usually the positive word in an otherwise negative environment. 
+                  But interpretation depends on context.</note>
             </item>
             <item>
                <label>u</label>
@@ -402,7 +429,9 @@
                <gloss>The opinion given is that of a teacher, friend, or other reviewer, not the reviewer's own</gloss>
                <note type="samplewords"/>
                <note type="usagenotes">If opinion from other person (f) about other book (w): code as f. Example: 
-                  <mentioned>De NRC-recensie over dit boek zei dat het qua thematiek tegenover Joe Speedboot staat</mentioned>: G 15 f</note>
+                  <mentioned>De NRC-recensie over dit boek zei dat het qua thematiek tegenover Joe Speedboot staat</mentioned>: G 15 f. 
+                  Can also be used for unspecified others <mentioned>after all the hype (I had expected more)</mentioned>: K 15 p f 
+                  (p because the opinion of the other persons is positive).</note>
             </item>
          </list>
          <div>

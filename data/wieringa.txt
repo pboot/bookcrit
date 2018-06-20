@@ -11,8 +11,8 @@
 "weinig"[]*[lemma="diepgang"]	K 5 -1 n
 "geen|zonder"[]{0,3}[lemma="diepgang"]	K 5 -1 n
 "lekker|goed""leesbaar"	K 18 1 p
-"meeslep.*"[]?"verhaa?l.*"	D 4 1 p
-"meeslep.*"[]?"boek.*"	K 4 1 p
+"meeslep.*"[]?"verhaa?l.*"	D 21 1 p
+"meeslep.*"[]?"boek.*"	K 21 1 p
 "schrijfstijl"	A 15
 "ga""je"[]?"op"	K 4
 "schitterend.*""boek.*"	K 15 p
@@ -23,7 +23,7 @@
 "verhaal"[]{0,4}"lagen|gelaagd.*"	B 5 1 p
 "zinnen"	A 15
 "hardop""lachen"	K 6 1 p
-"mij|ik|me|mijn"[]*"glimlachen"	K 6 1 p
+"mij|ik|me|mijn"[]*"glimlachen"	K 6-20 1 p
 "lelijke""zin.*"	A 15 -1 n
 "schrijfstijl"[]?"mooi.*"	A 15 1 p
 "is""geweldig"	K 15 1 p
@@ -36,8 +36,10 @@
 [lemma="erg|hee?l.?|zeer"]"mooi.?"[]*"(g|b)eschreven"	A 15 1 p
 "inspirerend.*"	K 13 1 p
 "bevredigend.*""einde|slot|conclusie"	D 8-9 1 p
-"ik|me|mij"[]*"meevoeren|meegevoerd"	K 8 1 p
-"verbeeldingskracht"	K 14 1 p
+"ik|me|mij"[]*"meevoeren|meegevoerd"	K 21 1 p
+"verbeeldingskracht"	K 17 1 p
+"verbeelding"	K 17 1 p
+"leespret"	K 15 1 p
 "mooie?|prachtige?|rijke?|schitterende?""taalgebruik|zinnen"	A 15 1 p
 [lemma="verrassend|onverwacht"]"plotwending|wending|plotwendingen|wendingen"	D 4 1 p
 "ontroerend.*"	K 9 1 p
@@ -72,12 +74,12 @@
 "pure|grote|hoge|hoogste|werkelijk|absolute|ongeëvenaarde""klasse"	K 15 1 p
 "klassiek"[]{0,2}"verhaal"	K 14 -1 p
 "ik|mij|me"[]{0,4}"klasse"	K 15 1 p
-"meeslepend"	D 4 1 p
-"kan""schrijven"	J-K 15 1 p
+"meeslepend"	D 21 1 p
+"kan""schrijven"	J 15 1 p
 "grote""drie"	K 15 t
 "schrijft"[]{0,2}"prachtig"	J-A 15 1 p
 "veel"[]{0,2}"humor"	K 6 1 p
-"glimlach"[]{0,2}"ik|mij|me|mijn"	K 9 1 p
+"glimlach"[]{0,2}"ik|mij|me|mijn"	K 6-20 1 p
 "weinig|geen|nauwelijks""inhoud"	K 5 -1 n
 "vol"[]{0,3}"humor"	K 6 1 p
 "niet|moeilijk|amper|onmogelijk|moeite|dwingen|nauwelijks"[]{0,5}"weg"[]?"leggen"	K 18 1 p
@@ -130,7 +132,7 @@
 "stijl"[]{0,3}"uniek"	A 14 1 p
 "hartverscheurend.*"	D 9 1 p
 "als""een""trein"	K 18 1 p
-"grijpt""je"	K 4 1 p
+"grijpt""je"	K 9 1 p
 "po(e|ë)tische"[]{0,4}"zinnen"	A 5 1 p
 "uitgewerkt.*"[]{0,3}"perso.*"	D 5 1 p
 [word="niet"]?"mag"[word="niet"]?"ontbreken"	K 15 1 p
@@ -167,7 +169,8 @@
 "weinig|niets|niks""gebeurt"	D 4 -1 n
 "het""mooie""aan"	K 15 1 p
 "ik|je"[word!="geen|niet|géén"]{0,5}"spijt""van"	K 15 -1 n
-"pakt.?""je|mij|me"[]{0,2}"niet"	K 18 -1 n
+"pakt.?""je|mij|me"[]{0,2}"niet"	K 21 -1 n
+"pakt.?""je|mij|me"	K 21
 "vind|vond"[]{0,2}"gezocht"	K 8 -1 n
 "boek"[word!="niet|minder"]{0,5}"toegankelijk"	K 7 1 p
 "schaterend"	K 6 1 p
@@ -186,7 +189,7 @@
 "fantastisch.?|geweldig.?|goed.?|uitstekend.?|uitnemend.?"[]?"schrij(v|fst)er"	J 15 1 p
 "echte""verteller"	J 4 1 p
 "leuk|goed|heerlijk|geweldig"[]{0,2}"verhaal"	D 15 1 p
-"pakkend"	K 18 1 p
+"pakkend"	K 4
 "zeer""goed"	K 15 1 p
 [lemma="doorworstelen"]	K 18 -1 n
 "manier""van""schrijven"	A 15
@@ -229,7 +232,7 @@
 "persoo?n.*|karakter.?"[word!="niet"]{0,5}"kleurrijk"	F 4 1 p
 "stijl|schrijfstijl"[word!="niet"]{0,5}"mooi"	A 15 1 p
 "kort""en""bondig"	A 1 1 p
-"drama"	K 9
+"drama|dramatisch"	K 9
 "feelgood"	K 16 1 p
 "mooi|knap|geweldig|echt|goed"[]{0,2}"neergezet"	A 15 1 p
 "titel"[word!="niet|weinig"]{0,3}"aanspr.*"	I 15 1 p
@@ -283,3 +286,24 @@
 "verhaal"[word!="niet|nauwelijks|minder"]{0,4}"intrigerend"	D 5 1 p
 "beeldspraak"	H 15
 "allesbehalve""voorspelba.*"	K 14 p
+"ironi.*"	K 6-20
+"po.tisch.*"	K 5-9
+"subtiel.*"[]{0,3}"humor"	K 6-20 1 p
+"clou"	D 15
+"leerza.*"	K 10 1 p
+"rode""lijn"	D 3
+"saai.?"[]{0,4}"geschreven"	A 18 -1 n
+"niet"[]{0,3}"boeiend"[]{0,3}"geschreven"	A 4 -1 n
+"toe"[]{0,3}"zetten"	K 18 -1 n
+"bijzonder.?"[]{0,3}"personage.?"	F 14 1 p
+"pakkend"[]{0,4}"(b|g)eschreven"	A 4 1 p
+"meeslepend"[]{0,4}".?eschreven"	A 21 1 p
+"in""een"[]{0,3}"dorp"	C 15
+"woord.*kunstenaar"	J-A 15 1 p
+"subliem.*"	K 15 1 p
+".*stijl"[]{0,3}"subliem.*"	A 15 1 p
+"leesplezier"	K 18
+"band""met"[]{0,3}".*perso.*|karakter.?"	F 21
+"andere|oudere|eerdere|latere""boeken"	K 15 w
+"met"[word!="weinig|nauwelijks"]{0,2}"diepgang"	K 5 1 p
+"inspirerend"	K 9
