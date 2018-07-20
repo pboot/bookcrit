@@ -10,6 +10,9 @@
                     <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
                 </title>
                 <style type="text/css">
+                    * {
+                    font-family: Verdana, Geneva, sans-serif;
+                    }
                     table {border-collapse: collapse;
                     }
                     table, th, td  {border: 1px solid black;
