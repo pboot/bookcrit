@@ -10,10 +10,14 @@
             <author>Peter Boot</author>
          </titleStmt>
          <publicationStmt>
-            <distributor>GitHub</distributor>
+            <distributor>
+               <name>GitHub</name>
+               <ptr target="https://github.com/pboot/bookcrit"/>
+            </distributor>
             <availability status="free">
                <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html"></licence>
             </availability>
+            
          </publicationStmt>
          <sourceDesc>
             <p>Born digital</p>
@@ -22,7 +26,22 @@
    </teiHeader>
    <text>
       <body>
-         <list n="aspect">
+         <div>
+            <head>Introduction</head>
+            <p>This is the codebook for a pilot project researching the possibility of using a distant reading system for reading 
+               Dutch online book reviews. The question that I am interested in is what issues are discussed in the reviews and 
+               determine people's appreciation of the books that they discuss. The research is undertaken in the context of the database
+               of Online Dutch Book Response (ODBR) discussed in Boot (<ref target="https://dh2017.adho.org/abstracts/208/208.pdf">2017</ref>). 
+            </p>
+            <p>The coding system is based on the system devised by Yvette Linders and described in her thesis <title>Met waardering gelezen</title> 
+               (<ref target="https://repository.ubn.ru.nl//handle/2066/131544">2014</ref>). I modified and extended the system in several respects. See
+               <ref target="https://pure.knaw.nl/portal/files/6529295/boot_adv_boekrespons.pdf">this powerpoint</ref> (in Dutch) for an idea of 
+               what I'm trying to achieve. Mail <ref target="mailto:peter.boot@huygens.knaw.nl">me</ref> for more information.
+            </p>
+         </div>
+         <div>
+         <list n="aspect" type="codes">
+            <head>Aspect</head>
             <item>
                <label>A</label>
                <term>Style/tone/language</term> 
@@ -33,6 +52,8 @@
                   verteltrant, schrijfwijze, taalbeheersing, woordkeus, schrijven, beschrijven, weergeven, vertellen, benoemen, formuleren, 
                   op papier zetten, noteren</note>
                <note type="usagenotes">vorm, vormvast: assigned by Linders to Structure, here seen as references to style </note>
+               <note type="usagenotes">'Wieringa <mentioned>kan vertellen</mentioned>': J-A 15 (it isn't mentioned what is good about it, so keep it at 15)</note>
+               <note type="usagenotes">'Wieringa <mentioned>kan verhalen vertellen</mentioned>': A-D 15 (applicable are J, A and D, choose A and D)</note>
             </item>
             <item>
                <label>B</label>
@@ -44,6 +65,7 @@
                   perspectiefwisselingen, 'rond' verhaal, compositie, vervlechten, in elkaar zetten, componeren, verknopen, onderbreken, verbinden, vermengen</note>
                <note type="usagenotes">lijnen, hoofdlijen, zijlijntjes: could be seen as Plot?</note>
                <note type="usagenotes">perspectief(wisselingen): is perspective part of Structure? It is often mentioned</note>
+               <note type="usagenotes"><mentioned>verhaalmotief</mentioned> moved from G to here as it does not necessarily about topic</note>
             </item>
             <item>
                <label>C</label>
@@ -79,8 +101,9 @@
                <label>G</label>
                <term>Theme/idea</term>
                <gloss>Discussion about the topic that are written about.</gloss>
-               <note type="samplewords">thema, idee, probleem, problematiek, gedachte, romanthese, visie, inzicht, verhaalmotief</note>
+               <note type="samplewords">thema, idee, probleem, problematiek, gedachte, romanthese, visie, inzicht</note>
                <note type="usagenotes">Topic can also be mentioned by name rather than by category</note>
+               <note type="usagenotes">Within the present coding systsem there is no way to indicate exactly what topic is being discussed</note>
             </item>
             <item>
                <label>H</label>
@@ -105,6 +128,7 @@
                <gloss>Discussion of author of the book and his/her poetics, intentions, person</gloss>
                <note type="samplewords">auteur, schrijver, schrijfester, intentie bedoeling, willen</note>
                <note type="usagenotes">Name of specific author is also an indication</note>
+               <note type="usagenotes">Discussion about autobiographical aspects of book: J 8</note>
                <note type="usagenotes">If a review says that an author <mentioned>can write</mentioned>, that is not 
                necessarily just about style, and therefore: J 15 1 p (rather than J-A)</note>
             </item>
@@ -124,7 +148,8 @@
                <note type="usagenotes">Have not yet seen a case where this category was necessary</note>
             </item>
          </list>
-         <list n="characteristic">
+         <list n="characteristic" type="codes">
+            <head>Characteristic</head>
             <item>
                <label>1</label>
                <term>Efficieny</term>
@@ -174,7 +199,8 @@
                <note type="usagenotes"><mentioned>ernst</mentioned> was humour, but more suitable here</note>
                <note type="usagenotes"><mentioned>volwassen</mentioned>: might be used to indicate seriousness, but is also 
                   often used when an author of children's books has written a book for adults. </note>
-               <note type="usagenotes"><mentioned>uitgewerkte personages</mentioned>: F 5. (though vividness and credibility might be considered too)</note>
+               <note type="usagenotes"><mentioned>uitgewerkte personages</mentioned>: F 5 (though vividness and credibility might be considered too)</note>
+               <note type="usagenotes"><mentioned>oppervlakkig personage</mentioned>: F 5 -1 n</note>
                <note type="usagenotes"/>
             </item>
             <item>
@@ -185,17 +211,17 @@
                   cabaret, vermakelijk, hilarisch, flauw</note>
                <note type="usagenotes">Linders here also includes what is amusing (<mentioned>vermakelijk</mentioned> or <mentioned>cheerful</mentioned>. 
                   I moved these to characteristics amusing (18) and upbeat (16).</note>
-               <note type="usagenotes"><mentioned>irony</mentioned> is subtle humour: 6-20</note>
+               <note type="usagenotes"><mentioned>irony</mentioned> and <mentioned>geestig</mentioned> are subtle humour: 6-20</note>
                <note type="usagenotes"><mentioned>glimlach</mentioned> is subtle humour : 6-20</note>
                <note type="usagenotes"/>
             </item>
             <item>
                <label>7</label>
                <term>Clarity</term>
-               <gloss>Discussion of whether a work or aspect is clear, easily understandable, including of things that become clear immediatey or only later in the work.</gloss>
-               <note type="samplewords">toegankelijk, eenvoudig, makkelijk, moeilijk, helder, duidelijk, onverklaard, onontleed, uitdrukkelijk, nauw-verhiolen, suggestief, 
-               cryptisch, geen hoogte kijgen van, verwarring, schimmig, spannend</note>
-               <note type="usagenotes"/>
+               <gloss>Discussion of whether a work or aspect is clear, easily understandable, including of things that become clear immediately or only later in the work.</gloss>
+               <note type="samplewords">toegankelijk, eenvoudig, makkelijk, moeilijk, helder, duidelijk, onverklaard, onontleed, uitdrukkelijk, nauw-verholen, suggestief, 
+               cryptisch, geen hoogte kijgen van, verwarring, schimmig</note>
+               <note type="usagenotes">Linders included <mentioned>spannend</mentioned>, which seems misleading.</note>
             </item>
             <item>
                <label>8</label>
@@ -214,13 +240,13 @@
                <note type="samplewords">snijdend, emotie, gevoel, gevoelig, voelen, verdriet, melancholie, ergernis, hartverwarmend, 
                ontroerend, aangrijpend, indringend, aandoenlijk, weemoedig</note>
                <note type="usagenotes"><mentioned>doet iets met me</mentioned></note>
-               <note type="usagenotes"><mentioned>het boek grijpt je</mentioned></note>
                <note type="usagenotes"><mentioned>raak geschreven</mentioned>: A 8-9 (though efficiency, vividness and clarity would also be defensible, or even realism); 
                   compare <mentioned>treffend</mentioned>. 
                   In <mentioned>raak</mentioned>, I see as the essential element that the reader is surprised or hit by the fittingness of the description, in 
                <mentioned>treffend</mentioned> the element of fittingness is less important.</note>
                <note type="usagenotes"><mentioned>poëtisch</mentioned>: 5-9 (withouit further indications, probably A 5-9 1 p).</note>
-               <note type="usagenotes"><mentioned>inspirerend</mentioned>: 9, though there is more to it.</note>
+               <note type="usagenotes"><mentioned>inspirerend</mentioned>: 9-13</note>
+               <note type="usagenotes">An ending that is <mentioned>bevredigend</mentioned> is both emotionally acceptable and credible: D 8-9</note>
             </item>
             <item>
                <label>10</label>
@@ -240,14 +266,16 @@
             <item>
                <label>12</label>
                <term>Socio-political characteristics</term>
-               <gloss>Discussion whether a work or an aspect of it is socially or politically meaningful. Antonym: apolitical.</gloss>
+               <gloss>Discussion whether a work or an aspect of it is socially or politically meaningful. Antonym: apolitical. 
+                  If the reviewer rejects the political views or objects to political content as such: code as 12 1 n</gloss>
                <note type="samplewords">maatschappij, samenleving, ideologie, geëngageerd</note>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>navelstaarderij</mentioned>: I interpret as a-social interest, 12 -1 n</note>
             </item>
             <item>
                <label>13</label>
                <term>Moral characteristics</term>
-               <gloss>Discussion of whether the work expresses or discusses ethical norms or prevailing ideas of good and evil. Other end of scale: amoral</gloss>
+               <gloss>Discussion of whether the work expresses or discusses ethical norms or prevailing ideas of good and evil. Other end of scale: amoral. 
+                  Immoral or objections to morality in general: code as 13 1 n</gloss>
                <note type="samplewords">(on)gevaarlijk, moraliserend, verontrustend, problematiek, probleem</note>
                <note type="usagenotes"><mentioned>een heroïsch verhaal</mentioned>: F 13 1 p; possibly, if there are overtones of admiration, F 9-13 1 p.
                <mentioned>held</mentioned>, if used in the general sense, is a moral characteristic F 13. If used in the sense of 
@@ -260,7 +288,9 @@
                <note type="samplewords">origineel, oorspronkelijk, eigenzinnig, onvervalst, nieuw, bekend, cliché, zoveelste, versleten, 
                creatief, afwijken, overeenkomen, variëren, imitatie, gemeenplaatsen, experimenteel, onnavolgbaar, persoonlijk, verrassend </note>
                <note type="usagenotes"><mentioned>maf</mentioned> in positive sense is original</note>
+               <note type="usagenotes">Also original: <mentioned>vernieuwend</mentioned>, <mentioned>verfrissend</mentioned></note>
                <note type="usagenotes"><mentioned>allebehalve voorspelbaar</mentioned>: shows originality, but may be applied at multiple levels</note>
+               <note type="usagenotes"><mentioned>klassiek verhaal</mentioned>: D 14 -1 p (positively appreciated lack of originality)</note>
             </item>
             <item>
                <label>15</label>
@@ -277,7 +307,7 @@
                <term>Upbeat</term>
                <gloss>Discusson of whether a work is optimistic, upbeat or pessimistic and gloomy. Not in Linders</gloss>
                <note type="samplewords">Optimistisch, pessimistisch, zwart, inktzwart, nachtmerrie</note>
-               <note type="usagenotes"/>
+               <note type="usagenotes">Good example: <mentioned>donker boek</mentioned></note>
             </item>
             <item>
                <label>17</label>
@@ -325,10 +355,14 @@
                Because of its importance in reading research I decided to maintain the category.</note>
                <note type="usagenotes">Category is also used to code <mentioned>pakte me</mentioned>
                <mentioned>meeslepend</mentioned>, <mentioned>meegevoerd</mentioned> etc. (though <mentioned>pakkend</mentioned> is merely intense)</note>
+               <note type="usagenotes"><mentioned>het boek grijpt je</mentioned></note>
                <note type="usagenotes"/>
             </item>
+            <note type="usagenotes"><mentioned>pff</mentioned> can mean many different things: sense of relief at end of boring book, heavily impressed by moving story. 
+               Will only be coded if meaning is clear.</note>
          </list>
-         <list n="end of scale">
+         <list n="end of scale" type="codes">
+            <head>End of scale</head>
             <note type="default">0</note>
             <item>
                <label>1!</label>
@@ -367,7 +401,8 @@
             </item>
             <note type="usagenotes">Not in Linders</note>
          </list>
-         <list n="polarity">
+         <list n="polarity" type="codes">
+            <head>Polarity</head>
             <note type="default">u</note>
             <item>
                <label>p</label>
@@ -393,7 +428,8 @@
             </item>
             <note type="usagenotes">Not in Linders</note>
          </list>
-         <list n="relation">
+         <list n="relation" type="codes">
+            <head>Relation</head>
             <item>
                <label>r</label>
                <term>for a certain group of readers</term>
@@ -421,7 +457,7 @@
                <term>About other author</term>
                <gloss>The opinion given is about another author or his/her works</gloss>
                <note type="samplewords"/>
-               <note type="usagenotes"/>
+               <note type="usagenotes"><mentioned>Weg met de Gipharten</mentioned> (if used in discussion of a book by another author): K 15 -1 n t</note>
             </item>
             <item>
                <label>f</label>
@@ -434,6 +470,7 @@
                   (p because the opinion of the other persons is positive).</note>
             </item>
          </list>
+         </div>
          <div>
             <head>Issues with the coding system</head>
             <list>
