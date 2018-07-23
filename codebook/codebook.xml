@@ -152,7 +152,7 @@
             <head>Characteristic</head>
             <item>
                <label>1</label>
-               <term>Efficieny</term>
+               <term>Efficiency</term>
                <gloss>Discussion of the efficiency with which the desired effects were obtained.</gloss>
                <note type="samplewords">efficient, zuinig, ter zake, details, uitvoering, (on)gecontroleerd, onopgesmukt, 
                   uitgesponnen, karig, lang, kort, langzaam</note>
@@ -284,7 +284,7 @@
             <item>
                <label>14</label>
                <term>Originality</term>
-               <gloss>Discussion of wheteher the work or an aspect of it is new or original </gloss>
+               <gloss>Discussion of whether the work or an aspect of it is new or original </gloss>
                <note type="samplewords">origineel, oorspronkelijk, eigenzinnig, onvervalst, nieuw, bekend, cliché, zoveelste, versleten, 
                creatief, afwijken, overeenkomen, variëren, imitatie, gemeenplaatsen, experimenteel, onnavolgbaar, persoonlijk, verrassend </note>
                <note type="usagenotes"><mentioned>maf</mentioned> in positive sense is original</note>
@@ -461,8 +461,8 @@
             </item>
             <item>
                <label>f</label>
-               <term>Cites other person's opinion. Not in Linders</term>
-               <gloss>The opinion given is that of a teacher, friend, or other reviewer, not the reviewer's own</gloss>
+               <term>Cites other person's opinion</term>
+               <gloss>The opinion given is that of a teacher, friend, or other reviewer, not the reviewer's own. Not in Linders</gloss>
                <note type="samplewords"/>
                <note type="usagenotes">If opinion from other person (f) about other book (w): code as f. Example: 
                   <mentioned>De NRC-recensie over dit boek zei dat het qua thematiek tegenover Joe Speedboot staat</mentioned>: G 15 f. 

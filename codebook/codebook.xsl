@@ -30,10 +30,11 @@
                 <p>Maintained at 
                     <a href="{//tei:distributor/tei:ptr/@target}"><xsl:value-of select="//tei:distributor/tei:ptr/@target"/></a>.
                     <br/>
-                    License: <a href="{//tei:availability/tei:licence/@target}"><xsl:value-of select="//tei:availability/tei:licence/@target"/></a>
                 </p>
                 <xsl:apply-templates select="//tei:body"/>
-                
+                <p>
+                    License: <a href="{//tei:availability/tei:licence/@target}"><xsl:value-of select="//tei:availability/tei:licence/@target"/></a>
+                </p>                
             </body>
         </html>
     </xsl:template>
