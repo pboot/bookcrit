@@ -41,7 +41,7 @@
 "verbeeldingskracht"	K 17 1 p
 "verbeelding"	K 17 1 p
 "leespret"	K 15 1 p
-"mooie?|prachtige?|rijke?|schitterende?""taalgebruik|zinnen"	A 15 1 p
+"mooie?|prachtige?|rijke?|schitterende?"".*taal.*|zinnen"	A 15 1 p
 [lemma="verrassend|onverwacht|bizar"]"plotwending|wending|plotwendingen|wendingen"	D 4 1 p
 "ontroerend.*"	K 9 1 p
 "zinderend.*""verhaa?l.*"	D 4 1 p
@@ -112,10 +112,10 @@
 "niet""uitgelezen"	K 15 -1 n
 "de""moeite"[]{0,5}"waard"	K 15 1 p
 "de""moeite""om"[]{0,5}"te""lezen"	K 15 1 p
-"bijzonder"[]{0,2}"geschreven"	A 15 1 p
+"bijzonder"[]{0,2}"geschreven"	A 14 1 p
 "literair""boek"	K 5
 "niet|nergens|zonder"[]{0,3}"te""technisch"	C 15 0 p
-"langdradig"	K 18 -1 n
+"langdradig.*"	K 1 -1 n
 "niet""te""vergelijken"	K 14 1 u
 "dosis|nodige""humor"	K 6 1 p
 "overgewaardeerd""boek"	K 15 -1 n
@@ -235,7 +235,7 @@
 "kort""en""bondig"	A 1 1 p
 "drama|dramatisch"	K 9
 "feelgood"	K 16 1 p
-"mooi|knap|geweldig|echt|goed"[]{0,2}"neergezet"	A 15 1 p
+"mooi|knap|geweldig|echt|goed|briljant"[]{0,2}"neergezet|(ge|be)schreven"	A 15 1 p
 "titel"[word!="niet|weinig"]{0,3}"aanspr.*"	I 15 1 p
 "geen""lange""zinnen"	A 7 1 p
 "geen"[]{0,3}"moeilijk.?""woorden|taal.*|zin.*|stijl|schrijfstijl"	A 7
@@ -280,7 +280,7 @@
 "zoveel""positieve""reacties"	K 15 1 p f
 "best"[]{0,1}"dik.*"	K 1 -1 n
 "treffend.*"[]{0,1}"beeldspraak|symboli.*"	H 9 p
-"verhaal"[]{0,2}"niet|minder|nauwelijks"[]{0,2}"interessant"	D 18 -1 n
+"verhaal"[]{0,2}"niet|minder|nauwelijks"[]{0,2}"interessant"	D 5 -1 n
 "geweldige"[]{0,4}"zinsopbouw"	A 15 p
 "waar"[]{0,4}"afspeelt"	C 15
 "kan"[word!="niet"]{0,4}"schrijven"	J 15 p
@@ -312,3 +312,23 @@
 <s>[word!="geen|niet|nauwelijks|nooit"]*"tot""de""verbeelding"	K 17 1 p
 "autobiografie"	J 8
 "maf|maffe"	K 14
+"vond""het"[]{0,4}"saai"	K 4 -1 n
+"niet""doorheen"	K 18 -1 n
+"eindelo.*""beschrij.*"	A 1 -1 n
+"thema"	G 15 1 p
+"lichtvoetig.?"	A 5 -1 p
+"plausibel.?"	K 8 1 p
+"geen""doorkomen"	K 18 -1 n
+"origine(el|le)"[]{0,2}"boek|verhaal"	K 14
+"filmisch.?"	A 8
+"hilarisch.?"	K 6 1 p
+"langdradig.?"[]{0,4}".*stijl.*|.*taal.*|zinnen"	A 1 -1 n
+"niet""voor""iedereen""geschikt"	K 15 -1 n r
+"boek"[]{0,4}"kunstwerk"	K 5 1 p
+<s>[word!="niet|minder|nauwelijks"]*"literair""niveau"	K 5 1 p
+"het""is""een"[]{0,5}"verhaal""over"	D 15
+"bijzonder""boek"	K 14
+"interessant.?"[]{0,4}"boek"	K 5
+"boek"[]{0,4}"interessant.?"	K 5
+"moeizaam"[]{0,3}"lezen"	K 7 -1 n
+"niet""mijn""stijl"	A 15 n
