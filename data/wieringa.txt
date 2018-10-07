@@ -8,6 +8,9 @@
 "vaderfiguur"	G 15
 "ontspannend"	K 18 1
 [lemma="ongeloofwaardig"]	K 8 -1 n
+[lemma="geloofwaardig"]	K 8
+[lemma="geloofwaardigs"]	K 8
+[lemma="ongeloofwaardigs"]	K 8
 "weinig"[]*[lemma="diepgang"]	K 5 -1 n
 "geen|zonder"[]{0,3}[lemma="diepgang"]	K 5 -1 n
 "lekker|goed""leesbaar"	K 18 1 p
@@ -332,3 +335,29 @@
 "boek"[]{0,4}"interessant.?"	K 5
 "moeizaam"[]{0,3}"lezen"	K 7 -1 n
 "niet""mijn""stijl"	A 15 n
+"ik"[]{0,5}"goed.?"[]{0,4}"gehoord"	K 15 p f
+"taalbeheersing"	A 15
+"warmte"	K 9
+"verwikkelingen"	D 15
+"puntig.?"".*schrij.*|.*schre.*|.*taal.*|.*stijl.*|zin.*|.*formul.*|dial.*"	A 1
+"dialo(og|gen)"	E 15
+"fantasie|fantasieen|fantasieën"	K 17
+"prachtig""!"	K 15 p
+"veel|teveel""van""het""zelfde"	K 1 -1 n
+"veel|teveel""van""hetzelfde"	K 1 -1 n
+"conversaties"	E 15
+"voorspelbaar"	K 14 -1
+"boeiende""verhaallijn.*"	D 5
+"interssant.?|boeiend.?"[]{0,3}"karakter.?|personage.?"	F 5
+"zag|ziet"[]{0,8}"voor""me|je"	K 8
+"plaats|plaatsen""waar"[]{0,5}"afspe.*"	C 15
+"makkelijk.*""leesbaar"	K 7 1
+"moeilijk.*""leesbaar"	K 7 -1
+"geschreven"	A 15
+"stijl"	A 15
+"heeft""iets""te""vertellen"	J 5 1 p
+"heeft"[]{0,3}"iets""te""vertellen"	J 5 1 p
+"sprookje"	K 8 -1
+"zonder|niet|geen"[]{0,5}"vals""sentiment"	K 9-20 1 p
+"zelden|zonder|niet|geen"[]{0,5}"sentiment"	K 9-20 1 p
+"zwaar""op""de""hand"	K 16

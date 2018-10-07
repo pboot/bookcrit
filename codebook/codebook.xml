@@ -159,6 +159,7 @@
                <note type="usagenotes">Includes negative remarks about volume of book: <mentioned>te dik</mentioned></note>
                <note type="usagenotes"><mentioned>traag</mentioned> used negatively (<mentioned>traag verhaal</mentioned>): D 1 -1 n</note>
                <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (negative): K 1 -1 n</note>
+               <note type="usagenotes"><mentioned>met gemak geschreven</mentioned> I interpret easy of writing as written efficiently</note>
             </item>
             <item>
                <label>2</label>
@@ -166,6 +167,8 @@
                <gloss>Discussion of the extent to which elements form a logical whole</gloss>
                <note type="samplewords">samenhang(end), combinatie, kloppen met, overeenkomen met</note>
                <note type="usagenotes">E.g. discussion whether a character and a plot turn are compatible.</note>
+               <note type="usagenotes"><mentioned>geforceerde stijl</mentioned>: I interperet this as a style not fitting the subject or the 
+               rest of the writing, i.e. as lack of coherence: A 4 -1 n</note>
             </item>
             <item>
                <label>3</label>
@@ -201,6 +204,7 @@
                   often used when an author of children's books has written a book for adults. </note>
                <note type="usagenotes"><mentioned>uitgewerkte personages</mentioned>: F 5 (though vividness and credibility might be considered too)</note>
                <note type="usagenotes"><mentioned>oppervlakkig personage</mentioned>: F 5 -1 n</note>
+               <note type="usagenotes"><mentioned>iets te vertellen hebben</mentioned>: J 5 1 p</note>
                <note type="usagenotes"/>
             </item>
             <item>
@@ -248,6 +252,8 @@
                <note type="usagenotes"><mentioned>poëtisch</mentioned>: 5-9 (withouit further indications, probably A 5-9 1 p).</note>
                <note type="usagenotes"><mentioned>inspirerend</mentioned>: 9-13</note>
                <note type="usagenotes">An ending that is <mentioned>bevredigend</mentioned> is both emotionally acceptable and credible: D 8-9</note>
+               <note type="usagenotes"><mentioned>sentiment</mentioned>: both emotion and not subtle: I code these separately, as 9 en 20 -1. 
+                  <mentioned>niet sentimenteel</mentioned>: emotion and subtle, 9-20.</note>
             </item>
             <item>
                <label>10</label>
