@@ -96,6 +96,7 @@
                <gloss>Discussion of characters in the book</gloss>
                <note type="samplewords">personages, figuur, hoofdpersoon, karakter, mens, tegenspelerhoofdrol, bijrol, persoonlijkheid, sujet, held, type</note>
                <note type="usagenotes">Can also be used when characters are mentioned by name or profession etc.</note>
+               <note type="usagenotes"><mentioned>Bildungsroman</mentioned>: F-G (theme is people)</note>
             </item>
             <item>
                <label>G</label>
@@ -189,6 +190,7 @@
                <note type="usagenotes"><mentioned>bizar</mentioned> is a difficult word. Can be used positively in this category, 
                   or negatively in category 8</note>
                <note type="usagenotes"><mentioned>pakkend</mentioned>: moved from 9 to 4</note>
+               <note type="usagenotes"><mentioned>sensatie</mentioned> (in a negative sense): K 4 1 n (too lively)</note>
             </item>
             <item>
                <label>5</label>
@@ -196,7 +198,8 @@
                <gloss>Discussion of whether a work is literary, about the depth of a work, about its complexity 
                   or layeredness, about intellectualism and about whether it stimulates the intellect</gloss>
                <note type="samplewords">Literatuur, lectuur, diepgang, boeiend, briljant, intellectueel, geniaal, scherpzinnig, 
-                  inzicht, zwaarwichtig, fascinerend, onbenulig, interessant, geraffineerd, triviaal</note>
+                  inzicht, zwaarwichtig, onbenullig, interessant, geraffineerd, triviaal</note>
+               <note type="usagenotes">Removed <mentioned>fascinerend</mentioned> as it is certainly not only used for literary or serious work</note>
                <note type="usagenotes"><mentioned>intrigerend</mentioned>: even though suspense novels can also be called intriguing?</note>
                <note type="usagenotes"><mentioned>jongensboek</mentioned> as a reproach: K 5 -1 n</note>
                <note type="usagenotes"><mentioned>ernst</mentioned> was humour, but more suitable here</note>
@@ -205,7 +208,7 @@
                <note type="usagenotes"><mentioned>uitgewerkte personages</mentioned>: F 5 (though vividness and credibility might be considered too)</note>
                <note type="usagenotes"><mentioned>oppervlakkig personage</mentioned>: F 5 -1 n</note>
                <note type="usagenotes"><mentioned>iets te vertellen hebben</mentioned>: J 5 1 p</note>
-               <note type="usagenotes"/>
+               <note type="usagenotes">Use this characteristic for references to intertextuality</note>
             </item>
             <item>
                <label>6</label>

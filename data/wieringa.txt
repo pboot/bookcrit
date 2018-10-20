@@ -106,7 +106,7 @@
 "aardig""boek"	K 15
 "alles"[]{0,3}"mee"[]{0,2}"gezegd"	K 15 -1 n
 "leuk"[]{0,4}"om""te""lezen"	K 18 1 p
-"personages"	F 15
+"personages|karakters"	F 15
 "onderwerp"	G 15
 "mij|me"[]{0,5}"niet|minder|nauwelijks"[]{0,5}"aanspreekt"	K 15 -1 n
 "mij|me"[]{0,8}"aanspreekt"	K 15
@@ -322,7 +322,7 @@
 "lichtvoetig.?"	A 5 -1 p
 "plausibel.?"	K 8 1 p
 "geen""doorkomen"	K 18 -1 n
-"origine(el|le)"[]{0,2}"boek|verhaal"	K 14
+"origine(el|le)"[]{0,2}"boek|verhaal|invalshoek"	K 14
 "filmisch.?"	A 8
 "hilarisch.?"	K 6 1 p
 "langdradig.?"[]{0,4}".*stijl.*|.*taal.*|zinnen"	A 1 -1 n
@@ -361,3 +361,31 @@
 "zonder|niet|geen"[]{0,5}"vals""sentiment"	K 9-20 1 p
 "zelden|zonder|niet|geen"[]{0,5}"sentiment"	K 9-20 1 p
 "zwaar""op""de""hand"	K 16
+"bildungsroman"	F-G 15
+"origineler"	K 14
+"perspectief"	B 15
+"neergezet"	A 15
+"verteld""vanuit"	B 15
+"traag""op""gang"	K 1 -1 n
+"niet|nooit|nauwelijks|minder"[word!="anders"]{0,4}"meeleven"	K 21 -1 n
+<s>[word!="niet|nooit|nauwelijks|minder"]*"meeleven"	K 21 1 p
+"te""saai"	K 18 -1 n
+"verwijzingen""naar"[]{0,5}"bijbel.*|geschied.*|myth.*|litera.*|film.*|.*kunst.*|schrij.*|wetenschap.*|klassiek.*|theater.*|filosof.*|denker.*"	K 5 1 p
+"komt""wonen"	F 15
+"gezien""door"[]{0,2}"oog|ogen|bril"	B 15
+"boek|verhaal""over"	G 15
+"taal""is"	A 15
+"karakter.*|personage.?"[]*"uitgebouwd"	F 5
+".*stijl.*|zin.*|taal.*"[]{0,7}"stroef|stroeve"	A 15 n
+"stroef|stroeve"[]{0,7}".*stijl.*|zin.*|taal.*"	A 15 n
+"docent"	F 15
+"taalvirtuositeit"	A 15 p
+"spanningselement.*"	K 19
+"uitgewerkt.*""verhaal|verhalen"	D 5
+"jonge""man"	F 15
+"levensverhaal"	D-F 15
+"sensati.*"	K 4
+"moeder|vader"	F 15
+"rasverteller"	J-D 15 1 p
+"te"[]{0,5}"uitgesponnen"	D 1 -1 n
+"diagonaal"[]{0,4}"lezen|gelezen|gescand|doorheen"	K 18 -1 n
