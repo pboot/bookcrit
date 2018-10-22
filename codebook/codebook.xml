@@ -161,6 +161,7 @@
                <note type="usagenotes"><mentioned>traag</mentioned> used negatively (<mentioned>traag verhaal</mentioned>): D 1 -1 n</note>
                <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (negative): K 1 -1 n</note>
                <note type="usagenotes"><mentioned>met gemak geschreven</mentioned> I interpret easy of writing as written efficiently</note>
+               <note type="usagenotes"><mentioned>geconcentreerde stijl</mentioned>: A 1 1 p</note>
             </item>
             <item>
                <label>2</label>
@@ -290,6 +291,8 @@
                <note type="usagenotes"><mentioned>een heroïsch verhaal</mentioned>: F 13 1 p; possibly, if there are overtones of admiration, F 9-13 1 p.
                <mentioned>held</mentioned>, if used in the general sense, is a moral characteristic F 13. If used in the sense of 
                'character', just code F (15?)</note>
+               <note type="usagenotes">Also used when the question is raised how morally we would act in the described situation.</note>
+               <note type="usagenotes"></note>
             </item>
             <item>
                <label>14</label>
@@ -354,6 +357,7 @@
                <note type="usagenotes"><mentioned>traag</mentioned> used positively (<mentioned>traaf en geduldig verteld verhaal</mentioned>): Subtle</note>
                <note type="usagenotes"><mentioned>moet geduld hebben</mentioned> (positively): K 20 1 p</note>
                <note type="usagenotes"><mentioned>zuiver</mentioned>: moved from religion to this category</note>
+               <note type="usagenotes"><mentioned>elegant</mentioned>: included in this category</note>
             </item>
             <item>
                <label>21</label>
@@ -488,6 +492,8 @@
                   So the coding might become very similar? But: in one review I might have 5 character aspects 
                   (in combination with different characteristics), in another one only one.</item>
                <item>Cannot make a distinction between very enthousiastic and moderately positive</item>
+               <item>Do I need an aspect to take into account obervations, theories, thoughts, general statements 
+                  included in a story?</item>
             </list>
          </div>
       </body>

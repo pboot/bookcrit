@@ -5,7 +5,7 @@
 "een""genot""om"	L 15 0 p
 "in"[]{0,3}[lemma="uitlezen"]	K 18 1 p
 [lemma="mooi"][word="taal.*"]	A 15 0 p
-"vaderfiguur"	G 15
+"vaderfiguur"	F 15
 "ontspannend"	K 18 1
 [lemma="ongeloofwaardig"]	K 8 -1 n
 [lemma="geloofwaardig"]	K 8
@@ -163,7 +163,7 @@
 "zoveel""elementen"	K 4 1 p
 "ontwikkelingsroman"	D-F 15
 "het""beste"[]*"gelezen"	K 15 1 p
-"aangrijpend"	K 9 1 p
+"aangrijpend.?"	K 9 1 p
 "speelt""zich""af"	C 15
 [word="na|gemotiveerd|getriggerd|omdat|vanwege|verbaasd|door|gebaseerd|basis|aangestoken|aanleiding|aangezien|gelokt|misleid"][]{0,4}"positieve"[]{0,2}"recensies"	K 15 1 p f
 "geduld"[word!="niet"]{0,2}"beloond"	K 15 1 p
@@ -363,7 +363,7 @@
 "zwaar""op""de""hand"	K 16
 "bildungsroman"	F-G 15
 "origineler"	K 14
-"perspectief"	B 15
+".*perspectie.*"	B 15
 "neergezet"	A 15
 "verteld""vanuit"	B 15
 "traag""op""gang"	K 1 -1 n
@@ -389,3 +389,29 @@
 "rasverteller"	J-D 15 1 p
 "te"[]{0,5}"uitgesponnen"	D 1 -1 n
 "diagonaal"[]{0,4}"lezen|gelezen|gescand|doorheen"	K 18 -1 n
+"pareltje"	K 15 p
+"nederlandse""literatuur"	K 5
+"kunstenaar"	F 15
+"politie.*"	F 15
+"diepzinnig.?"	K 5
+"rake"[]{0,4}"typering.*"	A 8-9 1 p
+"verhaal"[]{0,5}"spannend"	D 19
+"beeldtaal"	A-H 15
+"laat|liet|nodigt|nodigde|doet|deed"[]{0,5}"nadenken"	K 5 1 p
+"vluchteling.*"	F 15
+"commissaris.*"	F 15
+"rabbijn.*"	F 15
+"hoofdstuk.*"	B 15
+"steppe.?"	C 15
+"rake"[]{0,4}"zinnen"	A 8-9 1 p
+"reisverha.*"	C 15
+"droef"	K 16 -1
+"heftig.?"[]{0,3}"aangrijpend.?"	K 4-9
+"woord""teveel"	A 1 1 p
+"glimlach"	K 6-20
+"café"	C 15
+"levensvra.*"	G 5
+"om""bij""na""te""denken"	K 5
+"jongen|meisje"	F 15
+"elegant.?"[]{0,4}".*stijl.*|zin.*|woord.*"	A 20 1 p
+"vervelend.*"	K 18 -1 n
