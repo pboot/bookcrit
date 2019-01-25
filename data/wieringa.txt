@@ -415,3 +415,31 @@
 "jongen|meisje"	F 15
 "elegant.?"[]{0,4}".*stijl.*|zin.*|woord.*"	A 20 1 p
 "vervelend.*"	K 18 -1 n
+"gebeurtenissen"	D 15
+"bijbels.?"	K 15 t
+"ona(f|ffe)"	B 2 -1 n
+"persoon"	F 15
+"migratie"	G 15
+"binnenlanden"	C 15
+"herkenba(ar|re)"	K 8
+"weinig""woorden"	A 1
+"psychologisch.?""diep.*"	F 5
+"inleefba.*"	K 21
+"gevoelens"	K 9
+"hard""binnenkom.*"	K 4 1
+"kerstsfeer"	C 15
+"mooie"[]{0,3}"verhalen"	K 15 p
+"grensstad.*"	C 15
+"huishoudster.*"	F 15
+"rabbi"	F 15
+"mensensmokkelaar.?"	F 15
+"bijbelverha.*"	K 15 t
+"schrijfwijze"	A 15
+"parabel.*"	H 15
+"troostend"	K 16
+"absurd"	K 14
+"anekdote.?"	D 15
+"origineel"[]{0,3}"verteld|geschreven|beschreven"	A 14
+"vriend"	F 15
+"coming""of""age"	G 15
+"dorpse"	C 15
